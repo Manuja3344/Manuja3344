@@ -46,11 +46,11 @@
 
 <div align="center">
   
-  ![Manuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManujaPrasad&show_icons=true&theme=radical)
+  ![Manuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuja3344&show_icons=true&theme=radical)
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ManujaPrasad&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Manuja3344&theme=radical)](https://git.io/streak-stats)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManujaPrasad&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuja3344&layout=compact&theme=radical)
   
 </div>
 
@@ -58,7 +58,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ManujaPrasad&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manuja3344&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -90,7 +90,7 @@
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manuja_dev)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manuja.codes)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/manuja)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuja@example.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manujaprasad20@gmail.com)
   
 </div>
 
@@ -108,10 +108,10 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/ManujaPrasad/ManujaPrasad/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Manuja3344/Manuja3344/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManujaPrasad&label=Profile%20views&color=0e75b6&style=flat" alt="ManujaPrasad" />
+  <img src="https://komarev.com/ghpvc/?username=Manuja3344&label=Profile%20views&color=0e75b6&style=flat" alt="ManujaPrasad" />
 </p>
